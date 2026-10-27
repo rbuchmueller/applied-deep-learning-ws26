@@ -34,6 +34,6 @@ We need to use a large dataset to learn meaningful representations. The wikiart 
 - preparing the presentation of the work: 6 hours
 
 
-## Note to AI usage
+## Note to AI usage*
 ChatGPT 6.1 Sol was used particularly and only for the initial literature search (see chat here for transparency: https://chatgpt.com/share/6ae084c1-2028-83ed-82dd-8cdf2a72dd24). Given those results, the literature search was extended by employing catalog search engines, Google Scholar, keyword search and snowballing.
 Grammarly was used for proofreading only. 
